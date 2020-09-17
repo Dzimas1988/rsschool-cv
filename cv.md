@@ -8,4 +8,4 @@ _mail_: zaparogez@mail.ru
 I live in Brest. Republic of Belarus. I work in the construction industry. My goal is to become a good web developer.
 
 ## English level
-My englsh level is A1.
+My english level is A1.
